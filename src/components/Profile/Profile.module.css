@@ -1,0 +1,21 @@
+/** {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+
+.content {
+    grid-area: c;
+    background-color: aquamarine;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.other-posts {
+    margin-top: 20px;
+}
